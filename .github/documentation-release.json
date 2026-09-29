@@ -4,7 +4,7 @@
     {
       "name": "@stackline/wmf",
       "path": "README.md",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "baselineVersion": "1.0.0",
       "keywords": [
         "stackline",
@@ -20,8 +20,8 @@
       "homepage": "https://alexandro.net/docs/vanilla/wmf/",
       "baselineTarball": "https://registry.npmjs.org/@stackline/wmf/-/wmf-1.0.0.tgz",
       "baselineIntegrity": "sha512-n/UuyEfZf0bpLNUI7kw8Nx2/z97DjtRuIdzQUOMAb3uIvhTAnd4E5TDmpFdzHSYipCPYlHwehORbBhrd53RuzQ==",
-      "expectedSha512": "023f6e28d36db1614d7155bf20aa5dc32e4af2730c76167fa3390a320455decbe6f551185a18112232c5ed41ba7be302f59ce4713be610029f6136c9b7d5e42d",
-      "tag": "docs-stackline-wmf-v1.0.1"
+      "expectedSha512": "edc4fd50097f5491d1e4365404bdae0cdb5a3464fc55f3f6edc6051edea1f80ff9bdf5b0b8c69d9f756cd2fd14ebbb0b1b2324346379f7401208b285f3d1c79c",
+      "tag": "docs-stackline-wmf-v1.0.2"
     }
   ]
 }

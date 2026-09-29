@@ -1,6 +1,6 @@
 {
   "name": "@stackline/wmf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "sheetjs",
   "description": "Parse Windows Metafile graphics, including placeable headers, with maintained Node.js and browser builds",
   "keywords": [
