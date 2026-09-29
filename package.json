@@ -5,13 +5,14 @@
   "description": "Parse Windows Metafile graphics, including placeable headers, with maintained Node.js and browser builds",
   "keywords": [
     "stackline",
+    "npm-package",
     "wmf",
+    "parser",
+    "typescript",
+    "nodejs",
     "image",
     "office",
-    "word",
-    "windows-metafile",
-    "vector-graphics",
-    "parser"
+    "word"
   ],
   "bin": {},
   "main": "./dist/wmf.node.js",
@@ -39,7 +40,7 @@
     "build": "node scripts/build.cjs",
     "test:package": "node scripts/package-smoke.cjs"
   },
-  "homepage": "https://github.com/alexandroit/stackline-wmf#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/wmf/",
   "files": [
     "LICENSE",
     "README.md",

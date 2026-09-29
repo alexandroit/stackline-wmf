@@ -1,17 +1,18 @@
 # @stackline/wmf
 
-> Parse Windows Metafile graphics, including placeable headers, with maintained Node.js and browser builds.
+> Windows MetaFile (WMF) parser.
 
 [![npm version](https://img.shields.io/npm/v/@stackline/wmf.svg?style=flat-square)](https://www.npmjs.com/package/@stackline/wmf)
-[![license](https://img.shields.io/npm/l/@stackline/wmf.svg?style=flat-square)](https://github.com/alexandroit/stackline-wmf/blob/main/LICENSE)
-[![GitHub repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/alexandroit/stackline-wmf)
+[![license](https://img.shields.io/npm/l/@stackline/wmf.svg?style=flat-square)](https://github.com/alexandroit/stackline-wmf)
+[![GitHub repository](https://img.shields.io/badge/GitHub-alexandroit%2Fstackline-wmf-181717?style=flat-square&logo=github)](https://github.com/alexandroit/stackline-wmf)
+[![Docs](https://img.shields.io/badge/docs-alexandro.net-0f766e?style=flat-square)](https://alexandro.net/docs/vanilla/wmf/)
+[![Reddit community](https://img.shields.io/badge/community-r%2FStackline-ff4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/Stackline/)
 
-**[Documentation](https://github.com/alexandroit/stackline-wmf#readme)** |
-**[npm](https://www.npmjs.com/package/@stackline/wmf)** |
-**[Issues](https://github.com/alexandroit/stackline-wmf/issues)** |
-**[Repository](https://github.com/alexandroit/stackline-wmf)**
+**[Documentation](https://alexandro.net/docs/vanilla/wmf/)** | **[npm](https://www.npmjs.com/package/@stackline/wmf)** | **[Issues](https://github.com/alexandroit/stackline-wmf/issues)** | **[Repository](https://github.com/alexandroit/stackline-wmf)**
 
-**Package version:** `1.0.1`
+**Current package version:** `1.0.1`
+
+---
 
 ## Why this package?
 
@@ -179,15 +180,6 @@ Publication is performed by the repository GitHub workflow; do not publish from 
 3. Use the [GitHub publish workflow](https://github.com/alexandroit/stackline-wmf/actions/workflows/publish.yml) with its `Prod` environment to publish the exact CI tarball.
 4. Verify public npm bytes, package identity, provenance, and the immutable GitHub release evidence.
 
-## Community and Support
-
-Report reproducible package issues in the [issue tracker](https://github.com/alexandroit/stackline-wmf/issues).
-
-- [Stackline / Alexandro.Net](https://alexandro.net/)
-- [GitHub](https://github.com/alexandroit)
-- [Maintainer LinkedIn](https://www.linkedin.com/in/aleinfo/)
-- [Reddit community: r/Stackline](https://www.reddit.com/r/Stackline/)
-
 ## License
 
 [Apache-2.0](https://github.com/alexandroit/stackline-wmf/blob/main/LICENSE). Original copyright notices and upstream attribution are retained.
@@ -196,3 +188,22 @@ Please consult the attached LICENSE file for details.  All rights not explicitly
 granted by the Apache 2.0 License are reserved by the Original Author.
 
 See [NOTICE](https://github.com/alexandroit/stackline-wmf/blob/main/NOTICE) for retained attribution.
+
+## Credits and original authors
+
+- Original project: [js-wmf](https://github.com/SheetJS/js-wmf).
+- sheetjs.
+- Copyright (C) 2020-present   SheetJS LLC.
+- Stackline maintenance: [Alexandro Paixao Marques](https://www.linkedin.com/in/aleinfo/) and [Stackline contributors](https://github.com/alexandroit).
+
+Original copyright, license notices and contributor acknowledgements remain part of this distribution. Stackline maintenance does not replace authorship of the original work.
+
+## Community and Links
+
+- [Stackline website](https://alexandro.net/)
+- [GitHub projects](https://github.com/alexandroit)
+- [npm packages](https://www.npmjs.com/~alex360qc)
+- [Reddit community — r/Stackline](https://www.reddit.com/r/Stackline/)
+- [Maintainer LinkedIn](https://www.linkedin.com/in/aleinfo/)
+
+Use this repository's issue tracker for reproducible bugs and feature requests. Join r/Stackline for examples, usage questions and release discussions.
